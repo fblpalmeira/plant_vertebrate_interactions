@@ -5,7 +5,7 @@
 - [Script `.R`](https://github.com/fblpalmeira/plant_vertebrate_interactions/blob/main/30daychallenge_day4.R)
 
 - [Database1 `.csv`](https://github.com/fblpalmeira/plant_vertebrate_interactions/blob/main/ATLANTIC-floverint_int.csv)
-- [Database2 `.csv`](https://github.com/fblpalmeira/plant_vertebrate_interactions/blob/main/ATLANTIC-floverint_int.csv)
+- [Database2 `.csv`](https://github.com/fblpalmeira/plant_vertebrate_interactions/blob/main/ATLANTIC-floverint_plant.csv)
 
 <img src="jaguar_foodweb.gif">
 
