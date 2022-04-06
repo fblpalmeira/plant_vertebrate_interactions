@@ -2,7 +2,7 @@
 
 # Day 4 (4 April 2022) | Flora
 
-Visualization of flowering plants visited by nectar-feeding vertebrates in the Brazilian Atlantic Forest.
+Visualization of flowering plants visited by nectar-feeding vertebrates in the Brazilian Atlantic Forest [(Iamara-Nogueira et al 2022).](https://doi.org/10.1002/ecy.3595)
 
 - [Script `.R`](https://github.com/fblpalmeira/plant_vertebrate_interactions/blob/main/30daychallenge_day4.R)
 
